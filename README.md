@@ -1,1 +1,7 @@
-# stupid-plugin
+# stupid plugin
+
+Java 언어 입문 겸 해서 만든 플러그인입니다.
+___
+
+#### 명령어
++ `/멍청이` or `/멍청이 라고할뻔`
